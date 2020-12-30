@@ -1,0 +1,25 @@
+{
+    "id": "FE532FDB",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609203414594.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "ab4f3f8774d04032a178f4a810cf21ce",
+        "name": "mux",
+        "title": "mux"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3977012933832548400,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609203414594,
+    "read_only": false,
+    "read_only_alternatives": []
+}

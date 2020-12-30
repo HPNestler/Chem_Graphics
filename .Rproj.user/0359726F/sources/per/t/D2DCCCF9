@@ -1,0 +1,25 @@
+{
+    "id": "D2DCCCF9",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609203424618.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "id": "f6236df7d49947eb885c6ed681738944",
+        "name": "sigma",
+        "title": "sigma"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3977012933832548400,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609203424618,
+    "read_only": false,
+    "read_only_alternatives": []
+}

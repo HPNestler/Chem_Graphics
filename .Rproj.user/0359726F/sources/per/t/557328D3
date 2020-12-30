@@ -1,0 +1,24 @@
+{
+    "id": "557328D3",
+    "path": "/mnt/raid1/R_Projects/Chem_Graphics/Scripts/r3dplot.r",
+    "project_path": "Scripts/r3dplot.r",
+    "type": "r_source",
+    "hash": "3255834259",
+    "contents": "",
+    "dirty": false,
+    "created": 1609201048286.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "50,46",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609201322,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609201322920,
+    "read_only": false,
+    "read_only_alternatives": []
+}

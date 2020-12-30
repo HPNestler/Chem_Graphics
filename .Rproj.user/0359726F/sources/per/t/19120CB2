@@ -1,0 +1,25 @@
+{
+    "id": "19120CB2",
+    "path": "/mnt/raid1/R_Projects/Chem_Graphics/Scripts/Gaussians.r",
+    "project_path": "Scripts/Gaussians.r",
+    "type": "r_source",
+    "hash": "4042371667",
+    "contents": "",
+    "dirty": false,
+    "created": 1609200576661.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "59,0",
+        "scrollLine": "46"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1609205736,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609205736297,
+    "read_only": false,
+    "read_only_alternatives": []
+}
